@@ -17,6 +17,7 @@
 - 💬 Ask me about **Privacy, secure communication, anonymity, and cyber defense. I provide robust machine construction services for journalistic or OSINT investigations against formidable adversaries with unlimited time, resources, and knowledge, such as autocratic governments with high levels of surveillance and censorship, as well as other persistent threats. 💻🔒**
 
 - 📫 How to reach me **mauriciolimaosint@protonmail.com**
+- **PGP**: ECC7 C5F2 B933 A9B2 A159  8503 557B 559B 5EE1 21C8
 
 - ⚡ Fun fact **I believe that together we can change the world.**
 
