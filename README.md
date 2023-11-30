@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with [Amazonia International Leaks](https://www.buymeacoffee.com/app/wishlist)
 
-- 💬 Ask me about **Privacy, secure communication, and cyber defense expert. Offering robust machine construction services for investigations against powerful adversaries with unlimited time, resources, and knowledge, such as governments and other persistent threats. 💻🔒**
+- 💬 Ask me about **Privacy, secure communication, anonymity, and cyber defense. I provide robust machine construction services for journalistic or OSINT investigations against formidable adversaries with unlimited time, resources, and knowledge, such as autocratic governments with high levels of surveillance and censorship, as well as other persistent threats. 💻🔒**
 
 - 📫 How to reach me **mauriciolimaosint@protonmail.com**
 
