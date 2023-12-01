@@ -87,6 +87,8 @@ Junte-se ao nosso servidor no Discord, onde discutimos Segurança Digital para j
 <h3 align="left">Faça uma doação:</h3>
 
 <a href="https://www.bitcoin.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/bitcoin.svg" alt="bitcoin" width="40" height="40"/> </a>
+bitcoin: bc1qyfxw7sz9xx249lprhd6wepadctlyqchan85g04
+
 <a href="https://www.getmonero.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/monero.svg" alt="monero" width="40" height="40"/> </a>
 
 
