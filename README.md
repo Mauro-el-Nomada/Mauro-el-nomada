@@ -1,4 +1,3 @@
- <img  src="https://www.clickgratis.com.br/_upload/scraps/2012/07/24/pisca-pisca-14937.gif" width="100%" />
  <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 align="center">
@@ -42,6 +41,14 @@ Junte-se ao nosso servidor no Discord, onde discutimos Segurança Digital para j
 <p align="left">
 <a href="https://twitter.com/leaksosint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leaksosint" width="40" height="40"/> </a>
 <a href="https://linkedin.com/in/amazonia-leaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amazonia-leaks" width="40" height="40"/> </a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<h3 align="left">Secure communication:</h3>
+<p align="left">
+<a href="https://geti2p.net/en/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Itoopie.svg" alt="i2p" width="40" height="40"/> </a>
+<a href="https://pidgin.im/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/icons-mega-pack-1-and-2/256/Pidgin.png" alt="pidgin" width="40" height="40"/> </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
