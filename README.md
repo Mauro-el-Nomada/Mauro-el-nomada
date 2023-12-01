@@ -53,6 +53,8 @@ Junte-se ao nosso servidor no Discord, onde discutimos Segurança Digital para j
 <a href="https://www.qubes-os.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/qubes-os.svg" alt="qubes" width="40" height="40"/> </a>
 <a href="https://tails.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/tails.svg" alt="tails" width="40" height="40"/> </a>
 <a href="https://www.whonix.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/whonix.svg" alt="whonix" width="40" height="40"/> </a>
+<a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/icons8-kali-linux.svg" alt="kali" width="40" height="40"/> </a>
+<a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/icons8-arch-linux(1).svg" alt="arch" width="40" height="40"/> </a>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
