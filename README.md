@@ -40,26 +40,29 @@ Junte-se ao nosso servidor no Discord, onde discutimos Segurança Digital para j
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/leaksosint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leaksosint" width="40" height="40"/> </a>
-<a href="https://linkedin.com/in/amazonia-leaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amazonia-leaks" width="40" height="40"/> </a>
+&nbsp;&nbsp; <a href="https://medium.com/@amazonialeaks" target="blank"><img align="center" src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/icons8-medium(1).svg" alt="@amazonialeaks" width="50" height="50"/> </a>
+&nbsp;&nbsp;
+ <a href="https://linkedin.com/in/amazonia-leaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amazonia-leaks" width="40" height="40"/> </a>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <h3 align="left">Secure communication:</h3>
 <p align="left">
-<a href="https://geti2p.net/en/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Itoopie.svg" alt="i2p" width="40" height="40"/> </a>
+<a href="https://geti2p.net/en/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Itoopie.svg" alt="i2p" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://pidgin.im/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/icons-mega-pack-1-and-2/256/Pidgin.png" alt="pidgin" width="40" height="40"/> </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">Operating System:</h3>
 <p align="left">
-<a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/debian.svg" alt="debian" width="50" height="50"/> </a>
-<a href="https://www.freebsd.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/freebsd.svg" alt="debian" width="50" height="50"/> </a>
-<a href="https://www.qubes-os.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/qubes-os.svg" alt="qubes" width="50" height="50"/> </a>
-<a href="https://tails.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/tails.svg" alt="tails" width="50" height="50"/> </a>
-<a href="https://www.whonix.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/whonix.svg" alt="whonix" width="50" height="50"/> </a>
-<a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/icons8-kali-linux.svg" alt="kali" width="50" height="50"/> </a>
+<a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/debian.svg" alt="debian" width="50" height="50"/> </a>&nbsp;&nbsp;
+<a href="https://www.freebsd.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/freebsd.svg" alt="debian" width="50" height="50"/> </a>&nbsp;&nbsp;
+<a href="https://www.qubes-os.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/qubes-os.svg" alt="qubes" width="50" height="50"/> </a>&nbsp;&nbsp;
+<a href="https://tails.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/tails.svg" alt="tails" width="50" height="50"/> </a>&nbsp;&nbsp;
+<a href="https://www.whonix.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/whonix.svg" alt="whonix" width="50" height="50"/> </a>&nbsp;&nbsp;
+<a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/icons8-kali-linux.svg" alt="kali" width="50" height="50"/> </a>&nbsp;&nbsp;
 <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/icons8-arch-linux(1).svg" alt="arch" width="50" height="50"/> </a>
 
 
@@ -70,26 +73,23 @@ Junte-se ao nosso servidor no Discord, onde discutimos Segurança Digital para j
 
 <h3 align="left">Web Development:</h3>
 <p align="left">
-<br><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.python.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
+<br><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;&nbsp;
+<a href="https://www.python.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/amazonialeaks"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amazonialeaks" /></a></p><br><br><br><br>
-<a href="https://medium.com/@amazonialeaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amazonialeaks" width="50" height="50"/> </a>
-
 <h3 align="left">Faça uma doação:</h3>
 
+<p><a href="https://www.buymeacoffee.com/amazonialeaks"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amazonialeaks" /></a></p><br><br><br><br>
 <a href="https://www.bitcoin.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/bitcoin.svg" alt="bitcoin" width="40" height="40"/> </a>
-bitcoin: bc1qyfxw7sz9xx249lprhd6wepadctlyqchan85g04
+<br>bitcoin: <br>bc1qyfxw7sz9xx249lprhd6wepadctlyqchan85g04<br><br>
 
 <a href="https://www.getmonero.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/monero.svg" alt="monero" width="40" height="40"/> </a>
+<br> Endereço publico: <br>478VZxaVjZZbTZr6vspj3ma7SfoQUUP55YgaGCvaaSUnKxohQ6CNxqU13rqTVzBx9HNrMWqHLZAabWXywdMyBFFaGuXDJ4L
 
 
  
