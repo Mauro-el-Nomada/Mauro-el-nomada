@@ -4,7 +4,7 @@
   Hi there 👋 I'm <a href="https://www.linkedin.com/in/amazonia-leaks"> Mauricio Lima (Minotaur) 💻</a>!
 </h1> 
 
-<h2 align="center">A cybersecurity advocate passionate about environmental causes, privacy, anonymity, and open-source.</h2>
+<h2 align="center">Passionate about computers and the environment..</h2>
 
 - 🔭 I’m currently working on **Amazonia International Leaks** (a nonprofit organization in development)...
 
