@@ -6,20 +6,20 @@
 
 <h2 align="center">A cybersecurity advocate passionate about environmental causes, privacy, anonymity, and open-source.</h2>
 
-- 🔭 I’m currently working on **Amazonia International Leaks**
+- 🔭 I’m currently working on **Amazonia International Leaks** (a nonprofit organization in development)...
 
 - 🌱 I’m currently learning **English, OSINT, Computer Forensics, Cyber Defense, Investigative Journalism.**
 
-- 👯 I’m looking to collaborate on **I seek to operate on multiple fronts, ranging from digital security for investigative journalists and human rights advocates to the comprehensive protection of fauna, flora, peoples, and the environmental ecosystem, including the reforestation of the Amazon. Additionally, I am interested in collaborating on projects dedicated to combating corruption and organized crime, thus contributing to the ongoing preservation and protection of the environment.**
+- 👯 I’m looking to collaborate on **I seek to operate on multiple fronts, ranging from digital security for investigative journalists and human rights advocates to the comprehensive protection of fauna, flora, populations, and the environmental ecosystem, including the reforestation of the Amazon. Additionally, I am interested in collaborating on projects dedicated to combating corruption and organized crime, thereby contributing to the ongoing preservation of democracy and the protection of the environment.**
 
-- 🤝 I’m looking for help with [Amazonia International Leaks](https://www.buymeacoffee.com/app/wishlist)
+- 🤝 I’m looking for help with building [Amazonia International Leaks](https://www.buymeacoffee.com/app/wishlist)
 
-- 💬 Ask me about **Privacy, secure communication, anonymity, and cyber defense. I provide robust machine construction services for journalistic or OSINT investigations against formidable adversaries with unlimited time, resources, and knowledge, such as autocratic governments with high levels of surveillance and censorship, as well as other persistent threats. 💻🔒**
+- 💬 Ask me about **Privacy, OPSEC, secure communication, anonymity, and cyber defense. I provide robust machine construction services for journalistic or OSINT investigations against formidable adversaries with unlimited time, resources, and knowledge, such as autocratic governments with high levels of surveillance and censorship, as well as other persistent threats. 💻🔒**
 
 - 📫 How to reach me **mauriciolimaosint@protonmail.com**
 - **PGP**: ECC7 C5F2 B933 A9B2 A159  8503 557B 559B 5EE1 21C8
 
-- ⚡ Fun fact **I believe that together we can change the world.**
+- ⚡ Fun fact: **I laugh at programmer jokes.**
 
 <img src="#">
    <p align="center" color: "red">
@@ -28,8 +28,8 @@
        
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="left">Servidor no Discord:</h3>
-Junte-se ao nosso servidor no Discord, onde discutimos Segurança Digital para jornalistas investigativos e Investigadores OSINT.
+<h3 align="left">Discord Server:</h3>
+Join our Discord server where we discuss Digital Security for investigative journalists and OSINT Investigators. (Still in Portuguese, but planning to translate soon; I welcome assistance...)
 <p align="left">
  <a href="https://discord.gg/dZ5s2z6U" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-ar21.svg" alt="dZ5s2z6U" height="100%" width="200" /></a>
 </p>
@@ -52,7 +52,7 @@ Junte-se ao nosso servidor no Discord, onde discutimos Segurança Digital para j
 <p align="left">
 <a href="https://geti2p.net/en/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Itoopie.svg" alt="i2p" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://pidgin.im/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/icons-mega-pack-1-and-2/256/Pidgin.png" alt="pidgin" width="40" height="40"/> </a>
-
+<br><br>Ask me if you're interested.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">Operating System:</h3>
