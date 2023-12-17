@@ -6,7 +6,7 @@
 
 <h2 align="center">Passionate about computers and the environment..</h2>
 
-- 🔭 I’m currently working on **Amazonia International Leaks** (a nonprofit organization in development)...
+- 🔭 I’m currently working on <a href="https://github.com/AmazoniaLeaksOficial/OPSEC-for-OSINT"> OPSEC for OSINT Investigators</a> 🔍🔍 
 
 - 🌱 I’m currently learning **English, OSINT, Computer Forensics, Cyber Defense, Investigative Journalism.**
 
