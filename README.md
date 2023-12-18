@@ -58,7 +58,7 @@ Join our Discord server where we discuss Digital Security for investigative jour
 <h3 align="left">HOST System:</h3>
 <a href="https://www.kicksecure.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/kicksecure.png" alt="arch" width="80" height="100%"/> </a>
 
-<h3 align="left">Operating System:</h3>
+<h3 align="left">Virtual Machines:</h3><br>
 <p align="left">
 <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/debian.svg" alt="debian" width="50" height="50"/> </a>&nbsp;&nbsp;
 <a href="https://www.freebsd.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/freebsd.svg" alt="debian" width="50" height="50"/> </a>&nbsp;&nbsp;
@@ -66,7 +66,7 @@ Join our Discord server where we discuss Digital Security for investigative jour
 <a href="https://tails.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/tails.svg" alt="tails" width="50" height="50"/> </a>&nbsp;&nbsp;
 <a href="https://www.whonix.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/whonix.svg" alt="whonix" width="50" height="50"/> </a>&nbsp;&nbsp;
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/icons8-kali-linux.svg" alt="kali" width="50" height="50"/> </a>&nbsp;&nbsp;
-<a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/icons8-arch-linux(1).svg" alt="arch" width="50" height="50"/> </a>
+<a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/icons8-arch-linux(1).svg" alt="arch" width="50" height="50"/> </a><br><br>
 
 
 
