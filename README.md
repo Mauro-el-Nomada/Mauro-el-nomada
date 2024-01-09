@@ -10,11 +10,13 @@
 
 - 🌱 I’m currently learning **English, OSINT, Computer Forensics, Cyber Defense, Investigative Journalism.**
 
-- 👯 I’m looking to collaborate on **I seek to operate on multiple fronts, ranging from digital security for investigative journalists and human rights advocates to the comprehensive protection of fauna, flora, populations, and the environmental ecosystem, including the reforestation of the Amazon. Additionally, I am interested in collaborating on projects dedicated to combating corruption and organized crime, thereby contributing to the ongoing preservation of democracy and the protection of the environment.**
+- 👯 I am looking to collaborate in various fields, ranging from digital security for investigative journalists and human rights advocates to the comprehensive protection of biodiversity and ecosystems, including the reforestation of the Amazon. Additionally, I am interested in contributing to projects dedicated to combating corruption and organized crime.
+<br><br>
+However, my sense of urgency indicates that in 2024, we should focus on countering autocratic influence, disinformation, and foreign interference worldwide. Elections will be held in almost 80 countries throughout 2024. The war is not only on the frontlines of territories, but is also being waged fiercely in the digital environment!.
 
-- 🤝 I'm looking for help to find a job in OSINT.
+- 🇺🇸 I am not interested in money; for me, what matters is the cause for which one is fighting!
 
-- 💬 Ask me about **Privacy, OPSEC, secure communication, anonymity, and cyber defense. I provide robust machine construction services for journalistic or OSINT investigations against formidable adversaries with unlimited time, resources, and knowledge, such as autocratic governments with high levels of surveillance and censorship, as well as other persistent threats. 💻🔒**
+- 💬 Ask me about **Privacy, OPSEC, Secure Communication, Anonymity, and Cyber Defense. I provide robust machine construction services for journalistic or OSINT investigations against formidable adversaries with unlimited time, resources, and knowledge, such as autocratic governments with high levels of surveillance and censorship, as well as other persistent threats. 💻🔒**
 
 - 📫 How to reach me **mauriciolimaosint@protonmail.com**
 - **PGP**: ECC7 C5F2 B933 A9B2 A159  8503 557B 559B 5EE1 21C8
