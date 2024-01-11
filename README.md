@@ -14,7 +14,7 @@
 <br><br>
 However, my sense of urgency indicates that in 2024, we should focus on countering autocratic influence, disinformation, and foreign interference worldwide. Elections will be held in almost 80 countries throughout 2024. The war is not only on the frontlines of territories, but is also being waged fiercely in the digital environment!.
 
-- 🇺🇸 I am not interested in money; for me, what matters is the cause for which one is fighting!
+- 🌎 Money does not appeal to me; for me, the value lies in the nobility of the cause for which we fight.
 
 - 💬 Ask me about **Privacy, OPSEC, Secure Communication, Anonymity, and Cyber Defense. I provide robust machine construction services for journalistic or OSINT investigations against formidable adversaries with unlimited time, resources, and knowledge, such as autocratic governments with high levels of surveillance and censorship, as well as other persistent threats. 💻🔒**
 
