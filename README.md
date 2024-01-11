@@ -8,8 +8,6 @@
 
 - 💻 I’m currently working on <a href="https://github.com/AmazoniaLeaksOficial/OPSEC-for-OSINT"> OPSEC for OSINT Investigators</a> 🔍🔍 
 
-- 🌱 I’m currently learning **English, OSINT, Computer Forensics, Cyber Defense, Investigative Journalism.**
-
 - 👯 I am looking to collaborate in various fields, ranging from digital security for investigative journalists and human rights advocates to the comprehensive protection of biodiversity and ecosystems, including the reforestation of the Amazon. Additionally, I am interested in contributing to projects dedicated to combating corruption and organized crime.
 <br><br>
 However, my sense of urgency indicates that in 2024, we should focus on countering autocratic influence, disinformation, and foreign interference worldwide. Elections will be held in almost 80 countries throughout 2024. The war is not only on the frontlines of territories, but is also being waged fiercely in the digital environment!.
