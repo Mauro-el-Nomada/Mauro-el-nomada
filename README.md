@@ -89,11 +89,7 @@ Join our Discord server where we discuss Digital Security for investigative jour
 <h3 align="left">Faça uma doação:</h3>
 
 <p><a href="https://www.buymeacoffee.com/amazonialeaks"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amazonialeaks" /></a></p><br><br><br><br>
-<a href="https://www.bitcoin.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/bitcoin.svg" alt="bitcoin" width="40" height="40"/> </a>
-<br>bitcoin: <br>bc1qyfxw7sz9xx249lprhd6wepadctlyqchan85g04<br><br>
 
-<a href="https://www.getmonero.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AmazoniaLeaksOficial/AmazoniaLeaksOficial/blob/main/Assets/monero.svg" alt="monero" width="40" height="40"/> </a>
-<br> Endereço publico: <br>478VZxaVjZZbTZr6vspj3ma7SfoQUUP55YgaGCvaaSUnKxohQ6CNxqU13rqTVzBx9HNrMWqHLZAabWXywdMyBFFaGuXDJ4L
 
 
  
