@@ -89,10 +89,3 @@ Join our Discord server where we discuss Digital Security for investigative jour
 
 <p><a href="https://www.buymeacoffee.com/amazonialeaks"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amazonialeaks" /></a></p><br><br><br><br>
 
-
-
- 
- <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
- 
-<p align="center"><i>Header banner credits: <a href="https://github.com/BEPb/" target="_blank">BEPb</a></i></p>
-<p align="center"><i>Footer banner credits: <a href="https://github.com/Trilokia/" target="_blank">Trilokia</a></i></p>
