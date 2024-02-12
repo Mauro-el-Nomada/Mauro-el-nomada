@@ -82,8 +82,5 @@ Join our Discord server where we discuss Digital Security for investigative jour
 <a href="https://www.python.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
  
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br><br><br><br>
+<br><br>
 
