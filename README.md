@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hi there 👋 I'm <a href="https://www.linkedin.com/in/amazonia-leaks"> Mauricio Lima (Minotaur) 💻</a>!
+  Hi there 👋 I'm <a href="https://www.linkedin.com/in/amazonia-leaks"> Minotaur 💻</a>!
 </h1> 
 
 <h2 align="center">Passionate about computers and the environment..</h2>
