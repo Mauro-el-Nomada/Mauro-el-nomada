@@ -10,7 +10,7 @@
 
 💬 Ask me about SEO, digital marketing strategies, sales funnel optimization, and workflow automation. I provide comprehensive marketing solutions to elevate your business and achieve measurable results.
 
-📫 How to reach me: mauriciolimaosint@protonmail.com
+📫 How to reach me: globalpathfinderllc@gmail.com
 
 LinkedIn: <a href="#">Connect with me on LinkedIn</a>
 
