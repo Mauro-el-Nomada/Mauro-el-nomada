@@ -12,9 +12,10 @@
 
 📫 How to reach me: globalpathfinderllc@gmail.com
 
-LinkedIn: <a href="#">Connect with me on LinkedIn</a>
+Instagram: <a href="https://www.instagram.com/nomadamauro/">Connect with me on Instagram</a>
 
 ⚡ Fun fact: I love creating data-driven marketing campaigns that generate impactful results.
 
+Become a sponsor <a href="https://github.com/sponsors/Mauro-el-Nomada"> HIRE ME OR SPONSOR ME</a>
 
 <br><br>
