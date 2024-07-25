@@ -1,21 +1,21 @@
 <h1 align="center">
-  Hi there 👋 I'm <a href="#"> Mauro 💻</a>!
+  Hola 👋 Soy <a href="#">Mauro, el nomada de las Américas 💼</a>!
 </h1> 
-<h2 align="center">Digital Marketing Specialist</h2>
-💼 I’m currently working on optimizing digital marketing strategies for real estate companies in the USA. My expertise includes SEO, marketing strategies, sales funnel building, and workflow optimization.
+<h2 align="center">Especialista en Finanzas Internacionales, privacidad y anonimato </h2>
 
-🚀 I am looking to collaborate on projects that enhance digital presence and drive business growth through innovative marketing techniques. My goal is to help businesses achieve their objectives by optimizing their online visibility and performance.
+💼 Actualmente, soy consultor de finanzas internacionales, privacidad y anonimato especializado en ayudar a las personas a vivir con libertad financiera y sin pagar impuestos de manera 100% legal. Utilizo brechas legales en diversos países amigables fiscalmente para asegurar que mis clientes aprovechen al máximo las oportunidades disponibles.
 
-🌱 My mission is to help companies thrive by implementing advanced marketing strategies that boost organic traffic and increase conversions.
+🚀 Busco colaborar en proyectos que promuevan la privacidad financiera y el anonimato digital. Mi experiencia incluye estrategias de optimización fiscal, técnicas de comunicación anónima y manejo de finanzas con total privacidad.
 
-💬 Ask me about SEO, digital marketing strategies, sales funnel optimization, and workflow automation. I provide comprehensive marketing solutions to elevate your business and achieve measurable results.
+🌱 Mi misión es ayudar a mis clientes a alcanzar la libertad financiera, ofreciendo soluciones legales para evitar impuestos y garantizar la privacidad en el mundo digital. Creo que todos tienen el derecho de proteger sus finanzas y mantener su vida financiera privada.
 
-📫 How to reach me: globalpathfinderllc@gmail.com
+💬 Pregúntame sobre estrategias fiscales internacionales, anonimato digital, comunicación segura y gestión financiera anónima. Ofrezco consultoría completa para ayudarte a navegar en el complejo mundo de las finanzas internacionales con confianza y seguridad.
 
-Instagram: <a href="https://www.instagram.com/nomadamauro/">Connect with me on Instagram</a>
+📫 Cómo encontrarme: mindsetoutliers@protonmail.com <br>
+📫 Contacto: https://mindsetoutliers.com/contact 
 
-⚡ Fun fact: I love creating data-driven marketing campaigns that generate impactful results.
+⚡ Curiosidad: Me apasiona explorar nuevas oportunidades fiscales alrededor del mundo y ayudar a mis clientes a vivir con total libertad financiera y privacidad.
 
-Become a sponsor <a href="https://github.com/sponsors/Mauro-el-Nomada"> HIRE ME OR SPONSOR ME</a>
+Conviértete en patrocinador <a href="https://github.com/sponsors/Mauro-el-Nomada">Contrátame o Patrocíname</a>
 
 <br><br>
