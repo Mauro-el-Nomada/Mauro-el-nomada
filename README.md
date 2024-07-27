@@ -3,7 +3,7 @@
 </h1> 
 <h2 align="center">Especialista en Finanzas Internacionales, privacidad y anonimato </h2>
 
-💼 Actualmente, soy consultor de finanzas internacionales, privacidad y anonimato especializado en ayudar a las personas a vivir con libertad financiera y sin pagar impuestos de manera 100% legal. Utilizo brechas legales en diversos países amigables fiscalmente para asegurar que mis clientes aprovechen al máximo las oportunidades disponibles.
+💼 Soy consultor de finanzas internacionales, privacidad y anonimato especializado en ayudar a las personas a vivir con libertad financiera y sin pagar impuestos de manera 100% legal. Utilizo brechas legales en diversos países amigables fiscalmente para asegurar que mis clientes aprovechen al máximo las oportunidades disponibles.
 
 🚀 Busco colaborar en proyectos que promuevan la privacidad financiera y el anonimato digital. Mi experiencia incluye estrategias de optimización fiscal, técnicas de comunicación anónima y manejo de finanzas con total privacidad.
 
