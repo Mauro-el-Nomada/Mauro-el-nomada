@@ -15,7 +15,8 @@
 📫 Contacto: https://mindsetoutliers.com/contact 
 
 ⚡ Curiosidad: Me apasiona explorar nuevas oportunidades fiscales alrededor del mundo y ayudar a mis clientes a vivir con total libertad financiera y privacidad.
-
+<br><br>
+<strong>
 Conviértete en patrocinador <a href="https://github.com/sponsors/Mauro-el-Nomada">Contrátame o Patrocíname</a>
-
+</strong>
 <br><br>
