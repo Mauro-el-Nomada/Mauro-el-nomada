@@ -10,8 +10,8 @@
 
 💬 Pregúntame sobre protección de datos, estrategias de anonimato digital, auditorías de seguridad y técnicas avanzadas de OPSEC. Ofrezco consultoría integral para ayudarte a mantener tu información segura y privada en todos los aspectos de tu vida digital.
 
-📫 Cómo encontrarme: guardianprivacidad@protonmail.com <br>
-📫 Contacto: https://guardianprivacidad.com/contact
+📫 Cómo encontrarme: # <br>
+📫 Contacto: #/contact
 
 ⚡ Curiosidad: Me apasiona descubrir nuevas vulnerabilidades y desarrollar soluciones innovadoras para proteger la privacidad y el anonimato en la era digital.
 <br><br>
