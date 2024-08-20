@@ -11,11 +11,12 @@
 💬 Pregúntame sobre protección de datos, estrategias de anonimato digital, auditorías de seguridad y técnicas avanzadas de OPSEC. Ofrezco consultoría integral para ayudarte a mantener tu información segura y privada en todos los aspectos de tu vida digital.
 
 📫 Cómo encontrarme: # <br>
-📫 Contacto: #/contact
+📧 Email: opsecforosint@protonmail.com <br>
+🔐 PGP: 266E 2B1F B4EB A7A2 A0EE B5B6 66E8 7A19 5F8E 29A9 <br>
+💻 GitHub: @Minotaur-OPSEC
 
-⚡ Curiosidad: Me apasiona descubrir nuevas vulnerabilidades y desarrollar soluciones innovadoras para proteger la privacidad y el anonimato en la era digital.
 <br><br>
 <strong>
-Conviértete en patrocinador <a href="https://github.com/sponsors/Alex-el-Guardián">Contrátame o Patrocíname</a>
+Conviértete en patrocinador <a href="https://github.com/sponsors/Minotaur-OPSEC">Contrátame o Patrocíname</a>
 </strong>
 <br><br>
